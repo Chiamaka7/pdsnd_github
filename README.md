@@ -6,7 +6,7 @@ October 5, 2023
 Bikeshare Data Analysis Project
 
 ### Description
-The BikeShare Data Analysis Project is a Python-based project that analyzes bike-sharing data from three major cities: Chicago, New York City, and Washington. The project offers users insights into bike usage patterns, popular stations, trip duration statistics, and user demographics.
+The BikeShare Data Analysis Project is a Python-based project that analyzes bike-sharing data from three major cities: Chicago, New York City, and Washington. The project offers users insights into bike usage patterns, popular stations, trip duration statistics, and user demographics. The python script have been designed to be interactive.
 
 ### Files used
 This project uses the following files:
