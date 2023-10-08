@@ -15,6 +15,13 @@ This project uses the following files:
 - `new_york_city.csv`: Data file containing bike-sharing data for New York City.
 - `washington.csv`: Data file containing bike-sharing data for Washington.
 
+### Data Analysis Process
+To analyze the bikeshare data, the following stes were taken:
+- import the data
+- Calculate popular months, days, and stations
+- Compute trip duration statistics
+- Provide insights into user demographics
+
 ### Credits
 Udacity's Programming for Data Science with Python Nanodegree
 
