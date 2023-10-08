@@ -1,6 +1,6 @@
 
-### Date created
-October 5, 2023
+### Created By
+Chiamaka Oguchi
 
 ### Project Title
 Bikeshare Data Analysis Project
