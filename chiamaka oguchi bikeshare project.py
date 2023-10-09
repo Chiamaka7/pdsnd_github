@@ -26,7 +26,7 @@ def pattern(row, text):
 
 def get_filters():
     """
-    Asks user to specify a city, month, and day to analyze.
+    Ask user to specify a city, month, and day to analyze.
 
     Returns:
         (str) city - name of the city to analyze
@@ -47,7 +47,7 @@ def get_filters():
     user_day = None
     user_month = None
 
-    # get user input for month, day, both, or none
+    # get user input for filtering options: month, day, both, or none
     while True:
         user_filter = input(
             'Would you like to filter the data by month, day, both, or not at all? Type "none" for no '
@@ -78,7 +78,7 @@ def get_filters():
                            f' {user_day}')
                 break
 
-    # get user input for month (all, january, february, ... , june)
+    # get user input for month (all, january, february, march, april, may, june)
     elif user_filter == 'month':
         while True:
             user_month = input('\nWhich month - January, February, March, April, May,  June?\n').lower()
