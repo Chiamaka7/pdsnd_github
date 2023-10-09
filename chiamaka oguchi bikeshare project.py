@@ -47,7 +47,7 @@ def get_filters():
     user_day = None
     user_month = None
 
-    # get user input for month, day, both, or none
+    # get user input for filtering options: month, day, both, or none
     while True:
         user_filter = input(
             'Would you like to filter the data by month, day, both, or not at all? Type "none" for no '
